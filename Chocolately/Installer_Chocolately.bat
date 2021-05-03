@@ -1,0 +1,1 @@
+@Echo Off PowerShell.exe -NoProfile -noexit -ExecutionPolicy Bypass -Command ".\Chocolately.ps1" PAUSE
